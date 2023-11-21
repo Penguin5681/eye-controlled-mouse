@@ -13,8 +13,8 @@
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/Penguin5681/Eye-Control-Click.git
-    cd Eye-Control-Click
+    git clone https://github.com/Penguin5681/eye-controlled-mouse.git
+    cd eye-controlled-mouse
     ```
 
 2. Install the required dependencies:
