@@ -14,7 +14,7 @@
 
     ```bash
     git clone https://github.com/Penguin5681/Eye-Control-Click.git
-    cd EyeballMover
+    cd Eye-Control-Click
     ```
 
 2. Install the required dependencies:
